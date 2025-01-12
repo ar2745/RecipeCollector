@@ -1,4 +1,5 @@
 Stepping Stones Recipe Application
+
 Overview
 The Stepping Stones Recipe Application is a Java-based project designed to help users manage recipes and ingredients. The application allows users to create, view, and manage recipes, including adding ingredients, setting servings, and calculating nutritional information.
 
@@ -14,6 +15,7 @@ SteppingStone5_RecipeTest.java: Tests the SteppingStone5_Recipe class by creatin
 SteppingStone6_RecipeBox.java: Represents a recipe box containing a list of recipes.
 
 Getting Started
+
 Prerequisites
 Java Development Kit (JDK) 11 or higher
 An IDE such as IntelliJ IDEA or Eclipse
